@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
+
+h1 {
+    color: darkblue;
+}
+
+#map {
+    width: 97vw;
+    height: 500px;
+    border: 5px solid black;
+}
